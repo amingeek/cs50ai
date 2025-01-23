@@ -25,13 +25,16 @@ A collection of AI projects implemented for **CS50’s Introduction to Artificia
 1. Clone the repository:
 ```bash
 git clone https://github.com/Amination1/cs50ai.git
-Install dependencies:
+```
+Install dependencies
 
-bash
+```bash
 Copy
 pip install -r requirements.txt
+```
 Usage 🖥️
 Project Structure
+
 Copy
 cs50ai/
 ├── pset0/               # Foundational projects
