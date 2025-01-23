@@ -76,4 +76,4 @@ Search Search	BFS, DFS, A*
 License 📜
 This project is licensed under the MIT License.
 
-<div align="center"> <br> <img src="https://cs50.harvard.edu/ai/2024/assets/images/logo.png" width="200" alt="CS50 AI Logo"> <p>Built with ❤️ for <a href="https://cs50.harvard.edu/ai/2024/">CS50 AI 2024</a></p> </div> ```
+```<div align="center"><p>Built with ❤️ for <a href="https://cs50.harvard.edu/ai/2024/">CS50 AI 2024</a></p> </div> ```
