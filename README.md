@@ -29,13 +29,11 @@ git clone https://github.com/Amination1/cs50ai.git
 Install dependencies
 
 ```bash
-Copy
 pip install -r requirements.txt
 ```
 Usage 🖥️
 Project Structure
 
-Copy
 cs50ai/
 ├── pset0/               # Foundational projects
 ├── pset1/               # Intermediate projects
@@ -44,13 +42,12 @@ cs50ai/
 Basic Commands
 Run any project:
 
-bash
-Copy
+```bash
 cd path/to/project_directory
 python main_script.py
 Sample output:
+```
 
-Copy
 =================================
 |      AI Project Output        |
 =================================
@@ -58,15 +55,16 @@ Copy
 [✔] Model loaded successfully!
 Testing 🧪
 Run Standard Tests
-bash
-Copy
+```bash
 check50 ai50/projects/2024/x/project_name
+```
 Test Output Format
-Copy
+```
 :) File exists
 :) Correct initial state
 :( Detects horizontal win
     Expected "X", got "None"
+```
 Technologies 💻
 Technology	Purpose
 Python Python	Core implementation
