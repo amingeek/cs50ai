@@ -33,12 +33,13 @@ pip install -r requirements.txt
 ```
 Usage 🖥️
 Project Structure
-
+```
 cs50ai/
 ├── pset0/               # Foundational projects
 ├── pset1/               # Intermediate projects
 ├── requirements.txt     # Dependency list
 └── LICENSE              # License file
+```
 Basic Commands
 Run any project:
 
