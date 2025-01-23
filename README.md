@@ -48,10 +48,11 @@ cd path/to/project_directory
 python main_script.py
 Sample output:
 ```
-
+```
 =================================
 |      AI Project Output        |
 =================================
+```
 [+] Initializing system...
 [✔] Model loaded successfully!
 Testing 🧪
