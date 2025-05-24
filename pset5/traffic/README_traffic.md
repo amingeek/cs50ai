@@ -71,6 +71,6 @@ After 10 epochs of training, the model achieved:
 
 ## 👤 Author
 
-Project completed by [Your Name Here] as part of CS50AI.
+Project completed by Seyyed Amin Pourseyyedy as part of CS50AI.
 
 ---
